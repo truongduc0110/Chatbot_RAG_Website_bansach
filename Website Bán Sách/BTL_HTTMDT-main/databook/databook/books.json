@@ -1,0 +1,222 @@
+[{
+  "_id": {
+    "$oid": "60abb72c33f9b833f8fdb07b"
+  },
+  "release_date": {
+    "$date": "2021-05-24T00:00:00Z"
+  },
+  "describe": "mieu ta ne",
+  "view_counts": 80,
+  "sales": 0,
+  "id_category": "60abb5933be8d82674051ca3",
+  "name": "Thiên Quan Tứ Chúc",
+  "price": 20000,
+  "img": "https://res.cloudinary.com/ilike/image/upload/v1622129913/pxpnfrosnpneoomm9gft.jpg",
+  "id_nsx": "60abb5b13be8d82674051ca7",
+  "id_author": "60abb5e43be8d82674051cab",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60abbf6133f9b833f8fdb07c"
+  },
+  "release_date": {
+    "$date": "2021-05-17T00:00:00Z"
+  },
+  "describe": "mieu ta ne",
+  "view_counts": 13,
+  "sales": 0,
+  "id_category": "60abb59e3be8d82674051ca4",
+  "name": "Từ Điển Tiếng Em",
+  "price": 75000,
+  "img": "https://res.cloudinary.com/ilike/image/upload/v1622129927/uptb4k9n7ptiitikv0za.jpg",
+  "id_nsx": "60abb5b13be8d82674051ca7",
+  "id_author": "60abb5e83be8d82674051cac",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60abc5c97661e430b0191103"
+  },
+  "release_date": {
+    "$date": "2021-05-11T00:00:00Z"
+  },
+  "describe": "halu",
+  "view_counts": 5,
+  "sales": 0,
+  "id_category": "60abb5933be8d82674051ca3",
+  "name": "Nhân Vật Phản Diện",
+  "price": 3000000,
+  "img": "https://res.cloudinary.com/ilike/image/upload/v1622130207/ctmplxujtjeuaaixdsgj.jpg",
+  "id_nsx": "60abb5b13be8d82674051ca7",
+  "id_author": "60abb5e83be8d82674051cac",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60abc6027661e430b0191104"
+  },
+  "release_date": {
+    "$date": "2021-05-13T00:00:00Z"
+  },
+  "describe": "meiu ta ne",
+  "view_counts": 2,
+  "sales": 0,
+  "id_category": "60abb5a83be8d82674051ca6",
+  "name": "Trấn Hồn",
+  "price": 50000,
+  "img": "https://res.cloudinary.com/ilike/image/upload/v1622130128/llgnld9yli2ywyze2ol1.jpg",
+  "id_nsx": "60abb5bd3be8d82674051caa",
+  "id_author": "60abb5e83be8d82674051cac",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60abc6067661e430b0191105"
+  },
+  "release_date": {
+    "$date": "2021-05-13T00:00:00Z"
+  },
+  "describe": "meiu ta ne",
+  "view_counts": 5,
+  "sales": 0,
+  "id_category": "60abb5a23be8d82674051ca5",
+  "name": "Bộ Sách Thông Minh",
+  "price": 200000,
+  "img": "https://res.cloudinary.com/ilike/image/upload/v1622130177/ijt3dszfl3oetd8ia9v0.jpg",
+  "id_nsx": "60abb5bd3be8d82674051caa",
+  "id_author": "60abb5e83be8d82674051cac",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60afbe523f319427446004b7"
+  },
+  "release_date": {
+    "$date": "2021-05-20T00:00:00Z"
+  },
+  "describe": "mieu ta nè",
+  "view_counts": 1,
+  "sales": 0,
+  "id_category": "60abb5933be8d82674051ca3",
+  "name": "Tình Yêu Bị Nguyền Rủa",
+  "price": 120000,
+  "img": "https://res.cloudinary.com/ilike/image/upload/v1622130259/oswaki6tnw5avfzyngge.jpg",
+  "id_nsx": "60abb5b53be8d82674051ca8",
+  "id_author": "60abb5e83be8d82674051cac",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60afbe9e3f319427446004b8"
+  },
+  "release_date": {
+    "$date": "2021-05-19T00:00:00Z"
+  },
+  "describe": "mieu ta nè",
+  "view_counts": 1,
+  "sales": 0,
+  "id_category": "60abb5933be8d82674051ca3",
+  "name": "Những Giấc Mơ Ở Hiệu Sách  Morisaki",
+  "price": 100000,
+  "img": "https://res.cloudinary.com/ilike/image/upload/v1622130333/krwdt7lem99rd9gsorpj.jpg",
+  "id_nsx": "60abb5b13be8d82674051ca7",
+  "id_author": "60abb5e83be8d82674051cac",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60afbecc3f319427446004b9"
+  },
+  "release_date": {
+    "$date": "2021-05-21T00:00:00Z"
+  },
+  "describe": "mieu ta nè",
+  "view_counts": 1,
+  "sales": 0,
+  "id_category": "60abb5933be8d82674051ca3",
+  "name": "Ngày Mai Có Một Bắt Đầu",
+  "price": 90000,
+  "img": "https://res.cloudinary.com/ilike/image/upload/v1622130382/cr4rfkd6ktbsusgr4lc7.jpg",
+  "id_nsx": "60abb5b53be8d82674051ca8",
+  "id_author": "60abb5e83be8d82674051cac",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60afbf783f319427446004ba"
+  },
+  "release_date": {
+    "$date": "2021-05-27T00:00:00Z"
+  },
+  "describe": "mieu ta nè",
+  "view_counts": 11,
+  "sales": 0,
+  "id_category": "60abb5933be8d82674051ca3",
+  "name": "Lấy Nước Đường Xa",
+  "price": 25000,
+  "img": "https://res.cloudinary.com/ilike/image/upload/v1622130554/cf7iv1zdiho7tyeszvnh.jpg",
+  "id_nsx": "60abb5b13be8d82674051ca7",
+  "id_author": "60abb5e83be8d82674051cac",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60afbfbf3f319427446004bb"
+  },
+  "release_date": {
+    "$date": "2021-05-20T00:00:00Z"
+  },
+  "describe": "meiu ta nè",
+  "view_counts": 0,
+  "sales": 0,
+  "id_category": "60abb5a23be8d82674051ca5",
+  "name": "Khả Năng Đặt Câu Hỏi",
+  "price": 45000,
+  "img": "https://res.cloudinary.com/ilike/image/upload/v1622130624/jsd9dqtteq5jnresebzp.jpg",
+  "id_nsx": "60abb5b53be8d82674051ca8",
+  "id_author": "60abb5e43be8d82674051cab",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60afc0a03f319427446004bc"
+  },
+  "release_date": {
+    "$date": "2021-05-26T00:00:00Z"
+  },
+  "describe": "miêu tả nè",
+  "view_counts": 1,
+  "sales": 0,
+  "id_category": "60abb5933be8d82674051ca3",
+  "name": "Yêu Em Từ Cái Nhìn Đâu Tiên",
+  "price": 88000,
+  "img": "https://res.cloudinary.com/ilike/image/upload/v1622130849/urmgkkg1wn0ekmwsrj9n.jpg",
+  "id_nsx": "60abb5b53be8d82674051ca8",
+  "id_author": "60abb5e83be8d82674051cac",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60afc0c23f319427446004bd"
+  },
+  "release_date": {
+    "$date": "2021-05-25T00:00:00Z"
+  },
+  "describe": "mieu ta nè",
+  "view_counts": 1,
+  "sales": 0,
+  "id_category": "60abb59e3be8d82674051ca4",
+  "name": "Chêt Chóc",
+  "price": 150000,
+  "img": "https://res.cloudinary.com/ilike/image/upload/v1622130883/j1dkqfhq9pa95l5qq1yh.jpg",
+  "id_nsx": "60abb5b13be8d82674051ca7",
+  "id_author": "60abb5e43be8d82674051cab",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60afc0eb3f319427446004be"
+  },
+  "release_date": {
+    "$date": "2021-05-26T00:00:00Z"
+  },
+  "describe": "miue tả nè",
+  "view_counts": 5,
+  "sales": 0,
+  "id_category": "60abb59e3be8d82674051ca4",
+  "name": "Nếu Một Ngày Cậu Rời Xa",
+  "price": 200000,
+  "img": "https://res.cloudinary.com/ilike/image/upload/v1622130924/ig2iet6x1wlqw8fkzx9u.jpg",
+  "id_nsx": "60abb5b53be8d82674051ca8",
+  "id_author": "60abb5e83be8d82674051cac",
+  "__v": 0
+}]

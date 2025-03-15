@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "60abb5933be8d82674051ca3"
+  },
+  "name": "Tiểu Thuyết",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60abb59e3be8d82674051ca4"
+  },
+  "name": "truyen trinh tham",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60abb5a23be8d82674051ca5"
+  },
+  "name": "Kỹ Năng",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60abb5a83be8d82674051ca6"
+  },
+  "name": "Hành Động",
+  "__v": 0
+}]

@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "60afbb3c6e9c202868e230bf"
+  },
+  "is_admin": true,
+  "is_verify": true,
+  "email": "test1@gmail.com",
+  "firstName": "test1",
+  "lastName": "test1",
+  "password": "$2b$10$8pFNkEqlxd48DJHZjZDj0O3zivZ62Nmowo1NaIqxXuu7aptWvHkOi",
+  "address": "ha noi",
+  "phone_number": "12345678901",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60afbb5c6e9c202868e230c0"
+  },
+  "is_admin": false,
+  "is_verify": true,
+  "email": "test2@gmail.com",
+  "firstName": "test2",
+  "lastName": "test2",
+  "password": "$2b$10$lbuqFYG2BXmS2nz4E/arJeu8QrDCRuYNT2.0ehKIlpvaXKF.rIMmG",
+  "address": "ha noi viet nam",
+  "phone_number": "1234567890",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b052ce4ba6ec177c94a114"
+  },
+  "is_admin": true,
+  "is_verify": true,
+  "email": "kiara966.shippo@gmail.com",
+  "firstName": "Nguyễn",
+  "lastName": "Aaaa",
+  "password": "$2b$10$Ca9ujDzGZgFeFkpZYeQnvePPy0jvrX17La.ut8fIEGCOkJhMMPa9.",
+  "address": "Hà Nội Việt Nam",
+  "phone_number": "012345678910",
+  "token": "Ir8ytao2GXa2tEXe5nm7yfswCjUSGQ1y",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b515af00acf22708a6be11"
+  },
+  "is_admin": false,
+  "is_verify": true,
+  "email": "kirara99.shippo@gmail.com",
+  "firstName": "Nguyễn",
+  "lastName": "Abc",
+  "password": "$2b$10$IKJ162zCpZ05du1mbzO9yuHxmu.WFWT8sBIEHa3f4AeEadyPoh6wq",
+  "address": "Hà Nội Việt Nam",
+  "phone_number": "012345678910",
+  "token": "536446",
+  "__v": 0
+}]

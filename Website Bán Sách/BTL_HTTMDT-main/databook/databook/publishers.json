@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "60abb5b13be8d82674051ca7"
+  },
+  "name": "uchiha",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60abb5b53be8d82674051ca8"
+  },
+  "name": "meo beo",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60abb5b83be8d82674051ca9"
+  },
+  "name": "smile",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60abb5bd3be8d82674051caa"
+  },
+  "name": "no name",
+  "__v": 0
+}]
