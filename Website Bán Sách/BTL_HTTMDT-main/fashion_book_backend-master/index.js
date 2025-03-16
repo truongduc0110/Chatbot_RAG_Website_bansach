@@ -16,7 +16,7 @@ const cartRouter = require('./api/routers/cart.router');
 const adminRouter = require('./api/routers/admin.router');
 const addressVnRouter = require('./api/routers/addres.vn.router');
 mongoose.Promise = global.Promise;
-mongoose.connect('mongodb+srv://ledoanngocn:ngocnam141203@cluster0.8ynomfs.mongodb.net/bookshop?retryWrites=true&w=majority&appName=Cluster0');
+mongoose.connect('mongodb+srv://<your-links-database>');
 const address = require('./api/models/address.vn.model');
 const test = () => {
     Object.keys(data).forEach( function(k){
