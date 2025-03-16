@@ -7,7 +7,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 from bson import ObjectId
 
 class BookDatabase:
-    def __init__(self, connection_string="mongodb+srv://ledoanngocn:ngocnam141203@cluster0.8ynomfs.mongodb.net/bookshop?retryWrites=true&w=majority&appName=Cluster0"):
+    def __init__(self, connection_string="mongodb+srv://<your-links-database>"):
         """Initialize the book database with MongoDB connection"""
         self.connection_string = connection_string
         self.client = MongoClient(connection_string)
