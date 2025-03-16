@@ -18,7 +18,8 @@ Cách chạy:
 1. Cài đặt các thư viện cần thiết:
 ```bash
 pip install -r requirements.txt
-``` 
+```
+Sửa database 'mongodb+srv://<your-links-database>' ở chatbotserver và backend
 2. Chạy chatbot:
 ```bash
 Tải file mô hình từ huggingface bỏ vào thư mục models của folder ServerChatbot 
